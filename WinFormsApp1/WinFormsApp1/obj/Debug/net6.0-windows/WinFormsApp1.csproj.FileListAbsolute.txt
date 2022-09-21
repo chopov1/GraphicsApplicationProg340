@@ -1,0 +1,17 @@
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\SCHOOL\Fall 2022\GraphicsApplicationProgramming\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
